@@ -49,6 +49,10 @@ void PrintArray(string[] array)
 string[] array = { "1234", "1567", "-2", "computer science" };
 string[] result = ArrayToArrayOf3OrlessLetters(array);
 PrintArray(result);
+```
 
+*Коммиты*
+
+![КоммитыЪ](Комиты.png)
 
 
